@@ -1,4 +1,4 @@
-Comment compiler ?
+# Comment compiler ?
 
 - Téléchargez et extrayez l'archive quelque part dans votre ordinateur
 - Placez vous dans ce dossier à l'aide d'un terminal
